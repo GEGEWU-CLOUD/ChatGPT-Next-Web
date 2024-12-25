@@ -159,7 +159,9 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           欢迎使用来自ZzNnWn的ai助手.
+          公众号：简逸云
           更多请关注：http://sunlight.zznnwn.cloudns.biz
+          http://wn.zznnwn.cloudns.biz
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
